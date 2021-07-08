@@ -6,6 +6,7 @@
 # 
 
 ## About 
+The site is a Golf store, were you can buy golf products, courses and also golf travels. 
 
 
 ## Creating 
